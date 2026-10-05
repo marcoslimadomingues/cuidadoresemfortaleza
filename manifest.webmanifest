@@ -1,1 +1,1 @@
-{"name": "Agência Cuidar", "short_name": "Agência Cuidar", "start_url": "/", "display": "standalone", "background_color": "#fbf7f2", "theme_color": "#0f4c5c", "lang": "pt-BR", "icons": [{"src": "/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]}
+{"name": "Agência Cuidar", "short_name": "Agência Cuidar", "start_url": "/cuidadoresemfortaleza/", "display": "standalone", "background_color": "#fbf7f2", "theme_color": "#0f4c5c", "lang": "pt-BR", "icons": [{"src": "/cuidadoresemfortaleza/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]}
