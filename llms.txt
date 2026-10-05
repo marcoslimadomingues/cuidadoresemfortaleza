@@ -1,0 +1,48 @@
+# Agência Cuidar
+
+> Agência de cuidadores em [CIDADE]/[REGIÃO]. Conecta famílias a cuidadores para cuidado domiciliar e hospitalar de idosos e pessoas em recuperação. O cuidador não é enfermeiro nem médico.
+
+Dados: CNPJ [CNPJ] · [ENDEREÇO], [CIDADE]/CE · Tel (85) 0000-0000 · contato@exemplo.com.br · https://www.exemplo.com.br
+
+## Serviços
+- [Cuidador de idosos](https://www.exemplo.com.br/cuidador-de-idosos/): Rotina, companhia e segurança para o idoso em casa.
+- [Cuidador domiciliar](https://www.exemplo.com.br/cuidador-domiciliar/): Atendimento na casa do paciente, com rotina personalizada.
+- [Cuidador 24 horas](https://www.exemplo.com.br/cuidador-24-horas/): Cobertura contínua com escala de profissionais.
+- [Cuidador noturno](https://www.exemplo.com.br/cuidador-noturno/): Acompanhamento durante a noite e a madrugada.
+- [Acompanhante hospitalar](https://www.exemplo.com.br/acompanhante-hospitalar/): Presença e apoio na internação ou em consultas.
+- [Cuidador pós-operatório](https://www.exemplo.com.br/cuidador-pos-operatorio/): Apoio seguro na volta para casa após cirurgia.
+- [Cuidador para pessoa acamada](https://www.exemplo.com.br/cuidador-para-pessoa-acamada/): Cuidado atento a quem permanece no leito.
+- [Cuidador para Alzheimer](https://www.exemplo.com.br/cuidador-para-alzheimer/): Rotina estável e atenção à segurança de quem tem demência.
+- [Cuidador para Parkinson](https://www.exemplo.com.br/cuidador-para-parkinson/): Segurança na locomoção e paciência com o ritmo da pessoa.
+- [Cuidador para mobilidade reduzida](https://www.exemplo.com.br/cuidador-para-pessoa-com-mobilidade-reduzida/): Apoio para andar, transferir-se e manter a rotina.
+
+## Áreas atendidas
+- [Cuidador de idosos em Fortaleza](https://www.exemplo.com.br/cuidador-de-idosos-em-fortaleza/)
+- [Cuidador de idosos em Caucaia](https://www.exemplo.com.br/cuidador-de-idosos-em-caucaia/)
+- [Cuidador de idosos em Eusébio](https://www.exemplo.com.br/cuidador-de-idosos-em-eusebio/)
+- [Cuidador de idosos em Aquiraz](https://www.exemplo.com.br/cuidador-de-idosos-em-aquiraz/)
+- [Todas as áreas](https://www.exemplo.com.br/areas-atendidas/)
+
+## Páginas prioritárias
+- [Sobre](https://www.exemplo.com.br/sobre/)
+- [Qual agência contratar?](https://www.exemplo.com.br/qual-agencia-contratar/)
+- [FAQ](https://www.exemplo.com.br/faq/)
+- [Contato](https://www.exemplo.com.br/contato/)
+
+## Guias
+- [Como escolher um cuidador de idosos?](https://www.exemplo.com.br/blog/como-escolher-um-cuidador-de-idosos/)
+- [Quanto custa um cuidador de idosos?](https://www.exemplo.com.br/blog/quanto-custa-um-cuidador-de-idosos/)
+- [O que faz um cuidador de idosos?](https://www.exemplo.com.br/blog/o-que-faz-um-cuidador-de-idosos/)
+- [Qual a diferença entre cuidador e acompanhante?](https://www.exemplo.com.br/blog/qual-a-diferenca-entre-cuidador-e-acompanhante/)
+- [Quando contratar um cuidador?](https://www.exemplo.com.br/blog/quando-contratar-um-cuidador/)
+- [Cuidador de idosos pode acompanhar no hospital?](https://www.exemplo.com.br/blog/cuidador-de-idosos-pode-acompanhar-no-hospital/)
+- [Como funciona um cuidador 24 horas?](https://www.exemplo.com.br/blog/como-funciona-um-cuidador-24-horas/)
+- [Qual a jornada de trabalho de um cuidador?](https://www.exemplo.com.br/blog/qual-a-jornada-de-trabalho-de-um-cuidador/)
+- [Como contratar um cuidador para o período noturno?](https://www.exemplo.com.br/blog/como-contratar-um-cuidador-para-o-periodo-noturno/)
+- [Cuidados com idosos com Alzheimer](https://www.exemplo.com.br/blog/cuidados-com-idosos-com-alzheimer/)
+- [Cuidados para idosos com Parkinson](https://www.exemplo.com.br/blog/cuidados-para-idosos-com-parkinson/)
+- [Como preparar a casa para um idoso](https://www.exemplo.com.br/blog/como-preparar-a-casa-para-um-idoso/)
+- [Como evitar quedas em idosos](https://www.exemplo.com.br/blog/como-evitar-quedas-em-idosos/)
+- [Como organizar a rotina de um idoso](https://www.exemplo.com.br/blog/como-organizar-a-rotina-de-um-idoso/)
+- [Como escolher uma agência de cuidadores?](https://www.exemplo.com.br/blog/como-escolher-uma-agencia-de-cuidadores/)
+- [Quais perguntas fazer antes de contratar um cuidador?](https://www.exemplo.com.br/blog/quais-perguntas-fazer-antes-de-contratar-um-cuidador/)
