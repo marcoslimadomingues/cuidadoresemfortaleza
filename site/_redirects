@@ -1,0 +1,9 @@
+# Netlify/Cloudflare Pages
+http://www.exemplo.com.br/* https://www.exemplo.com.br/:splat 301!
+/cuidadores /servicos/ 301
+/cuidador /cuidador-de-idosos/ 301
+/cuidador-de-idosos-fortaleza /cuidador-de-idosos-em-fortaleza/ 301
+/acompanhante-de-idosos /cuidador-de-idosos/ 301
+/cuidador-noite /cuidador-noturno/ 301
+/cuidador-24h /cuidador-24-horas/ 301
+/*  /404.html 404

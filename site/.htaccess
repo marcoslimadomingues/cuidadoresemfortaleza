@@ -1,0 +1,15 @@
+# Apache
+ErrorDocument 404 /404.html
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^ https://www.exemplo.com.br%{REQUEST_URI} [L,R=301]
+Redirect 301 /cuidadores /servicos/
+Redirect 301 /cuidador-24h /cuidador-24-horas/
+Redirect 301 /cuidador-noite /cuidador-noturno/
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType text/css "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+</IfModule>
